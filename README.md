@@ -45,8 +45,8 @@ Students can access two distinct interactive practice formats directly through t
 
 Click below to launch the interactive review applications:
 
-* 📝 **[Launch Multiple-Choice Review App](https://mathjjaycuny-boop.github.io/mat105-practice-Final/index_EF_FA.html)**
-* ✍️ **[Launch Free-Response Review App](https://mathjjaycuny-boop.github.io/mat105-practice-Final/index_EF_MC.html)**
+* ✍️ **[Launch Free-Response Review App](https://mathjjaycuny-boop.github.io/mat105-practice-Final/index_EF_FA.html)**
+* 📝 **[Launch Multiple-Choice Review App](https://mathjjaycuny-boop.github.io/mat105-practice-Final/index_EF_MC.html)**
 
 ## 🌐 Live Access
 Access the live interactive dashboard via [GitHub Pages](https://yourusername.github.io/your-repo-name/).
